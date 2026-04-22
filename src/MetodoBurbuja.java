@@ -28,7 +28,7 @@ public class MetodoBurbuja {
     }
     public void imprimirArreglo(){
         for (int num : arreglo) {
-            System.out.println(num + ",");
+            System.out.print(num + ",");
             
         }
         System.out.println();
@@ -37,6 +37,16 @@ public class MetodoBurbuja {
     public void ordenarDescendente() {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'ordenarDescendente'");
+    }
+
+    public void ordenarDecendente() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'ordenarDecendente'");
+    }
+
+    public void oredenarDesendente() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'oredenarDesendente'");
     }
     
 }
